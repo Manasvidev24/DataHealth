@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.home,
+.cleandata,
+.predictiveanalysis,
+.healthmonitoring,
+.userreport,
+.form{
+  display: flex;
+  height: 90vh;
+  padding-top: 20px;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.cleandata {
+  background-color: rgb(232, 255, 247);
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: rgb(104, 211, 72);
+  font-size: 40px;
+}
+.predictiveanalysis {
+  background-color: rgb(232, 255, 247);
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: rgb(104, 211, 72);
+  font-size: 40px;
+}
+
+.healthmonitoring {
+  background-color: rgb(232, 255, 247);
+  background-size: auto;
+  background-repeat: no-repeat;
+  text-align: center;
+  display:flex;
+  color: rgb(104, 211, 72);
+  font-size: 40px;
+}
+.userreport {
+  background-color: rgb(232, 255, 247);
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: rgb(104, 211, 72);
+  font-size: 40px;
+}
+
+.signup {
+  background-color: rgb(232, 255, 247);  
+  background-repeat: no-repeat;
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  display: block;
+}
+
